@@ -1,2 +1,2 @@
 # Old Cellphone Text Encoder
-Travis A. Wagner 
+Travis A. Wagner
